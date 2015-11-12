@@ -1,3 +1,9 @@
+## Notes on the RentPath repository
+
+We created this fork so that we could add a RequireJS wrapper and use the code as a Bower dependency. Hopefully that will be the extent of the changes. However if you make more changes, please be careful that you open PRs on the "dev" branch of this repo and not on the "master" branch of the upstream repo: [combatwombat/marker-animate](https://github.com/combatwombat/marker-animate).
+
+Original README content follows...
+
 # Animated marker movement in Google Maps
 
 A nice alternative to `marker.setPosition(latLng)`. Include jQuery and jQuery Easing Plugin for more easing options.
