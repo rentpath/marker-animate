@@ -1,0 +1,10 @@
+{
+  "name": "marker-animate",
+  "version": "rp.1.0.0",
+  "description": "MarkerAnimate for Google Maps",
+  "homepage": "https://github.com/primedia/preserves",
+  "author": {
+    "name": "RentPath (original author Robert Gerlach)"
+  },
+  "repository": "rentpath/marker-animate",
+}
