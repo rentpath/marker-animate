@@ -1,0 +1,11 @@
+{
+  "name": "marker-animate",
+  "version": "rp.1.0.0",
+  "main": "markerAnimate.js",
+  "dependencies": {
+  },
+  "ignore": [
+    "package.json",
+    "README.md"
+  ]
+}
